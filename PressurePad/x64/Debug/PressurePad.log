@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\Admin\OneDrive - Imperial College London\Breast examination project\PressurePadProject\PressurePad\PressurePad\dllmain.cpp(49): warning C4172: returning address of local variable or temporary: pressure
+     Creating library C:\Users\Admin\OneDrive - Imperial College London\Breast examination project\PressurePadProject\PressurePad\x64\Debug\PressurePad.lib and object C:\Users\Admin\OneDrive - Imperial College London\Breast examination project\PressurePadProject\PressurePad\x64\Debug\PressurePad.exp
+  PressurePad.vcxproj -> C:\Users\Admin\OneDrive - Imperial College London\Breast examination project\PressurePadProject\PressurePad\x64\Debug\PressurePad.dll
